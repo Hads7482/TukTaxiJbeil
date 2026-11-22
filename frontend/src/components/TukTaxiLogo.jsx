@@ -47,7 +47,7 @@ const TukTaxiLogo = ({ className = "w-16 h-16" }) => {
       <path
         d="M91 69 H229 L258 124 L251 178 L205 251
            Q160 289 115 251 L69 178 L62 124 Z"
-        fill="#151515"
+        fill="#111111"
         stroke="#FFD500"
         strokeWidth="2.5"
       />
